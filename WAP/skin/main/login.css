@@ -1,0 +1,61 @@
+#header {
+	height:40px;
+	background:#B20000;
+	width:auto;
+	margin:0 5px;
+}
+
+#header .logo {
+	height:40px;
+	line-height:40px;
+	margin-left:30px;
+	font-size:22px;
+	font-weight:bold;
+	color:#FFF;
+}
+
+#content {
+	width:auto;
+	margin:0 5px;
+	padding-top:30px;
+}
+
+#content .form {
+	width:auto;
+}
+#content .form-inner{
+	border: 2px solid #CCCCCC;
+    margin: 1px;
+    padding: 25px 26px 30px;
+}
+#content .form-inner dl{margin-top:5px;}
+#content .form-inner dl dt{padding-bottom: 3px;color: #606060;font:13px/1.5 Tahoma,Helvetica,Arial,'宋体',sans-serif;font-weight: bold;}
+#content .form-inner .login-text {
+    border: 1px solid #C8C8C8;
+    height: 18px;
+    line-height: 18px;
+    margin-right: 3px;
+    padding: 3px;
+    vertical-align: middle;
+    width: 242px;
+	color: #9B9B9B;
+}
+#content .form-inner .login-btn{
+	background: url("images/btn.png") no-repeat scroll 0 0 transparent;
+    height: 30px;
+    line-height: 30px;
+    width: 254px;
+	border: 0 none;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    overflow: hidden;
+    vertical-align: middle;
+	margin-top:10px;
+	}
+#content .form-inner .yzm{float:left;}
+#content .form-inner .yzm input{float:left;width: 150px;}
+#content .form-inner .yzm img{float:left;}
+#footer{ width:auto; margin:30px 5px 10px; padding-top:10px; font-size:12px; text-align:center;}
